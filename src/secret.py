@@ -1,1 +1,1 @@
-FLAG = b'HTB{thr3sh0ld_t00_sm4ll_______CRT_t00_str0nk!}'
+FLAG = b'HTB{Encrypti0n_1s_4w3s0m3}'
